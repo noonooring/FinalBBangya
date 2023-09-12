@@ -607,7 +607,7 @@ public class MapActivity extends AppCompatActivity
 
         new NRPlaces.Builder()
                 .listener(MapActivity.this)
-                .key("AIzaSyC--rTwR3bE-k0ME-ivbyTzo4J2kvTs_Ew")
+                .key("Yourkey")
                 .latlng(location.latitude, location.longitude)//현재 위치
                 .radius(1000) //500 미터 내에서 검색
                 .type(PlaceType.BAKERY) //음식점
