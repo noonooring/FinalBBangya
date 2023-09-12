@@ -3,29 +3,70 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable/ic_menu_camera.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/drawable/side_nav_bar.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/app_bar_main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/content_main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/fragment_gallery.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/fragment_home.xml" value="0.1" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/layout/nav_header_main.xml" value="0.3333333333333333" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/menu/activity_main_drawer.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/menu/activity_main_menu.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/menu/fragment_home_menu.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/menu/main.xml" value="0.17916666666666667" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.144" />
-        <entry key="..\:/Cookandroid/Project/bbangya1121/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.144" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_distance.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_distance2.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_hot.xml" value="0.264" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_hot2.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_items.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/app_bar_main2.xml" value="0.2" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/content_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/fragment_gallery.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/fragment_slideshow.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/jjym.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/main_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/map_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/notice.xml" value="0.22826086956521738" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/layout/ranking_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25364583333333335" />
+        <entry key="..\:/CookAndroid/Project/Sojung2/mainSojung2/app/src/main/res/menu/menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/drawable/splash.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/activity_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/app_bar_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/content_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/fragment_home.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/jjym.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/map_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/nav_header_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/notice.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/layout/ranking_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/menu/activity_main_drawer.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout/Main_noonoo/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/drawable-anydpi/round_background_border_black.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/activity_hot.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/activity_items.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/fragment_gallery.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/nav_header_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/layout/ranking_fragment.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Mainlayout2/Main_noonoo/app/src/main/res/menu/activity_main_drawer.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/activity_distance.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/activity_hot.xml" value="0.1" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/fragment_gallery.xml" value="0.140625" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/fragment_home.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/MYPC/Downloads/Sojung/mainSojung/app/src/main/res/layout/main_fragment.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

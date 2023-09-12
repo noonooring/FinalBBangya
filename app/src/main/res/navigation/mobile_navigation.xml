@@ -13,8 +13,8 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="kr.ac.duksung.bbangya1121.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:name="kr.ac.duksung.bbangya1121.ui.Rank.RankFragment"
+        android:label="베이커리 종류별"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
@@ -22,4 +22,15 @@
         android:name="kr.ac.duksung.bbangya1121.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_rank"
+        android:name="kr.ac.duksung.bbangya1121.ui.Rank.RankFragment"
+        android:label="베이커리 랭킹"
+        tools:layout="@layout/ranking_fragment"/>
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="kr.ac.duksung.bbangya1121.ui.Map.MapFragment"
+        android:label="주변 빵집 지도"
+        tools:layout="@layout/map_fragment" />
+
 </navigation>
