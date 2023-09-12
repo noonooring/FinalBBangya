@@ -68,7 +68,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyACN0Uq2LczMX_oo_aiRTBkLWLHJNdL610"/>
+            android:value="Your key"/>
 
         <service android:name="com.minew.beacon.ScanService"/>
         <receiver android:name="com.minew.beacon.BluetoothChangedReceiver"
